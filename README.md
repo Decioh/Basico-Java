@@ -1,7 +1,7 @@
 # Basico-Java
 Introdução ao Java
 
-##Criação de variável
+## Criação de variável
 
 
 Variável:
@@ -21,7 +21,7 @@ Vi: Um valor inicial(opcional)
 
 O que está entre interrogações é opcional.
 
-##Tipos de Dados
+## Tipos de Dados
 Estática(fortemente tipada) precisamos escolher apenas um tipo de variável.
 Dinâmica(fracamente tipada)
 Primitivo - int
@@ -43,7 +43,7 @@ String st= "Décio";
 
 boolean boo = true; // false;
 
-##Conversões (Casting)
+## Conversões (Casting)
 
 É a transformação de uma variável de um tipo mais específico, para menos, ou vice-versa .
 Upcast(implícito);
@@ -59,7 +59,7 @@ Criação de métodos
 
 Método é uma porção de código (sub-rotina). É executado quando é feita uma requisição a ele.
 
-##Criação de método:
+## Criação de método:
 
 <?Visibilidade?><?Modificado?r>Tipo nome<?=valor inicial?>
 
