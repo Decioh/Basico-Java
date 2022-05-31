@@ -123,26 +123,48 @@ System.out.println(“Valor de i fora: ” + i); // i = 10 valor fora do método
  A estrutura de coleções fornece as duas interfaces que definem várias coleções e classes que as implementam.
   Comandos:
   [x] Iniciar
+ 
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/List.html
+ 
 [x] Generics
+ 
 [x] Diamond Operator
+ 
 https://www.baeldung.com/java-diamond-operator
-[x] toString() - Representação em string de um objeto
+ 
+[x] toString() - Representação em string de um objeto 
+ 
 [x] indexOf() - Posição de um elemento
+ 
 [x] add() - Adiciona xxxx.add(int posição, int data);
+ 
 [x] set() - Substiti xxx.set(int posição, float data);
+ 
 [x] contains() - boolean, se contem ou não um dado passado xxxx.contains(Double dado);
+ 
 [x] get() - apresenta uma nota na posição y xxx.get(y)
+ 
 [x] Collections.min() - minimo da lista
+ 
 [x] Collections.max() - maximo da lista
+ 
 [x] iterator() - Iterator<tipo de dado> iterator = xxxx.iterator();
+ 
 [x] iterator.hasNext() - retorna true ou false, se existir proximo elemento
+ 
 [x] iterator.next() - próximo na lista;
+ 
 [x] iterator().remove() - remove da lista
+ 
 [x] size() - quantidade de elementos xxxx.size();
+ 
 [x] remove() - remove posição ou objeto;
+ 
 [x] clear() - Limpa a lista
+ 
 [x] isEmpty() - Booleano, para vazia(true) ou cheia(false)
+ 
+ Interface comparable - compara strings;
  
 
 
